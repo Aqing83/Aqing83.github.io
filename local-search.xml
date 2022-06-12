@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2022/06/12/%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2%E6%97%B6%E6%9C%BA/"/>
+    <url>/2022/06/12/%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2%E6%97%B6%E6%9C%BA/</url>
+    
+    <content type="html"><![CDATA[<p>线程状态：</p><p>线程一共有六个状态，分别为：新建（NEW）、运行（RUNNABLE）、等待（WAITING）、超时等待（TIMED_WAITING）、阻塞（BLOCKED）、终止（TERMINATED）；其中运行中又可以分为两个状态，一个是就绪（READY），另一个是运行中（RUNNING），就绪和运行中都属于运行状态，他俩之间的状态关系为，一个运行线程获取到系统分配的时间片时候就是运行中状态，如果没有被分配到时间片那就是就绪状态。</p><p>下图是线程各个状态之间的转换时机</p><p><img src="C:\Users\青\AppData\Roaming\Typora\typora-user-images\image-20220612182615167.png" alt="image-20220612182615167"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/06/12/hello-world/"/>
     <url>/2022/06/12/hello-world/</url>
